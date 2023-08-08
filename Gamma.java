@@ -1,4 +1,3 @@
-package com.testDemo;
 
 public class Gamma{
 
