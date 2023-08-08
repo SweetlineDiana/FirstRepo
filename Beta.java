@@ -1,6 +1,6 @@
 package com.testDemo;
 
-public class beta{
+public class Beta{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
